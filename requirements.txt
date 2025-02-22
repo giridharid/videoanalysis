@@ -1,0 +1,10 @@
+streamlit
+pandas
+snowflake-connector-python
+matplotlib
+numpy
+transformers
+sqlalchemy
+elasticsearch
+requests
+streamlit_wordcloud
